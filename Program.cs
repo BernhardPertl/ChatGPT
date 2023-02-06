@@ -5,7 +5,7 @@ using ConsoleAppOpenAIChat;
 
 internal class Program
 {
-    private const string API_KEY = "YOUR_API_KEY";
+    private const string API_KEY = "YOUR_API_KEY"; // goto https://platform.openai.com/account/api-keys to get a valid key
 
     private static void Main(string[] args)
     {
